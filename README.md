@@ -7,7 +7,7 @@ The app connects to a no code tool called "Pabbly Connect" to further process/st
 [![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
 
 ## Live Website
-[Link to Website](https://happy-holidays.streamlit.app/?name=Coding%20Is%20Fun%20Community)
+[Link to Website](https://video-suggestions.streamlit.app/)
 
 
 ## 🤝 Connect with Me
