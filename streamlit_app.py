@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-WEBHOOK_URL = "https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NjUwNTY5MDYzMTA0MzA1MjZkNTUzZDUxMzci_pc"
+WEBHOOK_URL = "https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NjUwNTY5MDYzMTA0MzI1MjY1NTUzMzUxMzci_pc"
 
 
 # Function to post data to the webhook using argument unpacking
