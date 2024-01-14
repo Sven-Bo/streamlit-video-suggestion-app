@@ -3,8 +3,8 @@
 A simple web app to collect video ideas.
 The app connects to a no code tool called "Pabbly Connect" to further process/store the submitted data.
 
-## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/taeOIEsBeHo/0.jpg)](https://youtu.be/taeOIEsBeHo)
 
 ## Live Website
 [Link to Website](https://video-suggestions.streamlit.app/)
